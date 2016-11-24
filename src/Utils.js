@@ -1,4 +1,4 @@
-import THREE from 'three';
+import * as THREE from 'three';
 import assign from 'object-assign';
 import warning from 'fbjs/lib/warning';
 

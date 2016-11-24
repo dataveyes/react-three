@@ -1,4 +1,4 @@
-import THREE from 'three';
+import * as THREE from 'three';
 import assign from 'object-assign';
 import THREEContainerMixin from './THREEContainerMixin';
 

@@ -22,8 +22,8 @@
 import ReactDOM from 'react-dom';
 
 // monkey patch to workaround some assumptions that we're working with the DOM
-import monkeypatch from './ReactTHREEMonkeyPatch';
-monkeypatch();
+// import monkeypatch from './ReactTHREEMonkeyPatch';
+// monkeypatch();
 
 import Renderer from './components/THREERenderer';
 import Scene from './components/THREEScene';

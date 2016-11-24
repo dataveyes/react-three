@@ -29,11 +29,6 @@
     "fbjs": "^0.8.0",
     "object-assign": "^4.0.1"
   },
-  "peerDependencies": {
-    "react": "^15.4.0",
-    "react-dom": "^15.4.0",
-    "three": "^0.74.0"
-  },
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-eslint": "~5.0.0",
